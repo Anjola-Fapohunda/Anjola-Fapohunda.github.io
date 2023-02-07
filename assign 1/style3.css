@@ -6,5 +6,7 @@ body { background-image: url("myBackground.jpg"); }
 
 h1 {font: georgia; }
 
-#content-image { url("anjola.jpg")}
+#content-image {  float: left; width: 350px; }
+
+#content-image2 { float: left; width: 400px; }
 
