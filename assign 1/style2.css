@@ -1,0 +1,9 @@
+body { background-color: #FFEAC9; }
+
+#banner-image { url("mybanner.jpg");  align="center"; }
+
+#nav-table { width: 800px; bgcolor: #B0DFFF; }
+
+#nav-td { width: 200px; text-align: center; }
+
+h1 {font: georgia; }

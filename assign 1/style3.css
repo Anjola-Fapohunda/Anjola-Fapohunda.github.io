@@ -1,0 +1,10 @@
+body { background-image: url("myBackground.jpg"); }
+
+#nav-table { width: 800px; bgcolor: #B0DFFF; }
+
+#nav-td { width: 200px; text-align: center; }
+
+h1 {font: georgia; }
+
+#content-image { url("anjola.jpg")}
+
